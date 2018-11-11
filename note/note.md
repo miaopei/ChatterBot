@@ -37,6 +37,10 @@
 > [智能聊天机器人实现(源码+解析)](https://blog.csdn.net/hitwhylz/article/details/38462417)
 >
 > [python实现微信机器人： AI智能回复](https://blog.csdn.net/harleylau/article/details/80300274)
+>
+> [使用springboot开发微信智能聊天小机器人(基于图灵问答api接口)](https://blog.csdn.net/qq_29992111/article/details/78982289)
+>
+> [基于图灵api实现微信聊天机器人](https://blog.csdn.net/xj178926426/article/details/68923692)
 
 
 
