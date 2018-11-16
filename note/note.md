@@ -7,6 +7,12 @@
 ## Reference
 
 > [基于深度神经网络的自动问答系统概述](https://zhuanlan.zhihu.com/p/41217854)
+>
+> [基于深度学习的智能问答](https://yq.aliyun.com/articles/58745)
+>
+> [QA问答系统中的深度学习技术实现](http://www.52nlp.cn/qa%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0)
+>
+>
 
 > [零基础创建专属微信公众号机器人](https://juejin.im/entry/58d4c9ca44d90400692bbf5c)
 >
@@ -47,3 +53,13 @@
 > [手把手教你搭建Mac环境微信小程序的本地测试服务器](https://juejin.im/post/59cf120a5188254f58414e91)
 >
 >
+
+> [[聊天机器人]：开源ChatterBot工作原理](https://blog.csdn.net/qifengzou/article/details/77126933)
+>
+> [构建自己的聊天机器人（及如何接入微信）](https://osswangxining.github.io/chatterbot/)
+
+> [基于知识图谱的智能问答](https://zhuanlan.zhihu.com/p/41827326)
+>
+> [三个角度理解知识图谱](https://zhuanlan.zhihu.com/p/33227133)
+>
+> [各类QA问答系统的总结与技术实现（持续更新）](https://blog.csdn.net/u012892939/article/details/79476756)
